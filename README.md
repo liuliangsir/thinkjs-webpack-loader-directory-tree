@@ -1,5 +1,7 @@
 # Directory Visualization
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/liuliangsir/thinkjs-webpack-loader-directory-tree.svg)](https://greenkeeper.io/)
+
 This shows the directory structure, with only the relevant pieces shown initially. Any files that we have more info on have a note (exposed on hover).
 
 Built with the [Project Explorer CLI](https://github.com/sdras/project-explorer).
